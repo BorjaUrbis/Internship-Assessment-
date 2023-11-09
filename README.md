@@ -1,7 +1,7 @@
 # Internship-Assessment-
 This repository will contain all the data, files and version history related to the internship possition level assessmentto be completed for the interview.
 
-##Introduction
+## Introduction
 The task consists in three parts:
 
 1. **GitHub repository creation and setup**
